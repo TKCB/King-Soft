@@ -58,6 +58,23 @@ Gods系列游戏
 https://www.alipan.com/s/u2d3LTBPsop（提取码: r84a）
 
 
+#### Gitee 项目
+
+King Soft（王的软件）
+
+由于gitee存放大小有限制，故而仍然将软件存储在三大网盘。
+
+https://gitee.com/TKCB/King-Soft
+
+#### Github 项目
+
+King Soft（王的软件）
+
+由于github存放大小有限制，故而仍然将软件存储在三大网盘。
+
+https://github.com/TKCB/King-Soft
+
+
 #### 三大网盘内容一致
 为了更好地分享，而某个网盘失效或者文件被屏蔽等情况。
 
