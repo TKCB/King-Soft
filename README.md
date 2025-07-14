@@ -47,43 +47,67 @@ https://pan.quark.cn/s/0533e96d7d45?pwd=ePnM
 
 （故而最好是以百度或者夸克网盘为主）
 
-（当然更好的是，三个网盘文件都下载，然后用著名的文件对比工具“Beyond Compare”进行比对）
+（当然更好的是，4个网盘文件都下载，然后用著名的文件对比工具“Beyond Compare”进行比对）
 
 King系列软件 
 
-https://www.alipan.com/s/sQpSk9cfyTa（提取码: ck14） 
+https://www.alipan.com/s/sQpSk9cfyTa（提取码: ck14 ） 
 
 Gods系列游戏 
 
-https://www.alipan.com/s/u2d3LTBPsop（提取码: r84a）
+https://www.alipan.com/s/u2d3LTBPsop（提取码: r84a ）
+
+
+### 蓝奏云网盘
+King系列软件 
+
+https://tkcb.lanzoue.com/b0138zkjmf（提取码: king ） 
+
+Gods系列游戏 
+
+https://tkcb.lanzoue.com/b0138zkjeh（提取码: gods ）
 
 
 ### Gitee 项目
-
 King Soft（王的软件）
 
-由于gitee存放大小有限制，故而仍然将软件存储在三大网盘。
+在“发行版”（项目简介下面），里面有所有发布的软件
 
 https://gitee.com/TKCB/King-Soft
 
-### Github 项目
 
+Gods Game（神的游戏）
+
+在“发行版”（项目简介下面），里面有所有发布的游戏
+
+https://gitee.com/TKCB/Gods-Game
+
+
+### Github 项目
 King Soft（王的软件）
 
-由于github存放大小有限制，故而仍然将软件存储在三大网盘。
+在“Releases”（项目About下面），里面有所有发布的软件
 
 https://github.com/TKCB/King-Soft
 
 
-### 三大网盘内容一致
+Gods Game（神的游戏）
+
+在“Releases”（项目About下面），里面有所有发布的游戏
+
+https://github.com/TKCB/Gods-Game
+
+
+### 4大网盘和Git的内容一致
 为了更好地分享，而某个网盘失效或者文件被屏蔽等情况。
 
-故而使用了三个网盘进行分享。
+故而使用了4个网盘，和两个Git进行分享，理论上6份是同步的，但如果有个别不一致，敬请理解……
 
 谢谢理解……
 
 
 ### 最后的祝福
+
 祝愿大家学习愉快，工作开心、生活如意，遇到挫折苦难逆境也要勇敢向前走……
 
 真诚的希望我们的软件和游戏，帮助到了大家，也感谢您的使用……
