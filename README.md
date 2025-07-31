@@ -113,3 +113,7 @@ https://github.com/TKCB/Gods-Game
 真诚的希望我们的软件和游戏，帮助到了大家，也感谢您的使用……
 
 但愿我们都可以做一个改变世界的人，也不要被世界改变。
+
+
+### 许可证
+[Apache License 2.0](https://github.com/TKCB/King-Soft/blob/main/LICENSE)
