@@ -18,7 +18,8 @@
 佛家的做事理念：无心而为。
 
 而我信仰的仙道，也有自己的做事理念：为而不为。
-　
+
+仙道还有自己的处事原则：争而不争。　
 
 
 
@@ -30,6 +31,7 @@ https://pan.baidu.com/s/5k6r1Eo3oXzaFAazkAIJBtA
 Gods系列游戏 
 
 https://pan.baidu.com/s/5i9SWC2u1aXf4pixhMLG8mA 
+　
 
 
 ### 夸克网盘
@@ -40,6 +42,7 @@ https://pan.quark.cn/s/5634f0a03829?pwd=eSaM
 Gods系列游戏 
 
 https://pan.quark.cn/s/0533e96d7d45?pwd=ePnM 
+　
 
 
 ### 阿里云网盘
@@ -57,15 +60,6 @@ Gods系列游戏
 
 https://www.alipan.com/s/u2d3LTBPsop（提取码: r84a ）
 
-
-### 蓝奏云网盘
-King系列软件 
-
-https://tkcb.lanzoue.com/b0138zkjmf（提取码: king ） 
-
-Gods系列游戏 
-
-https://tkcb.lanzoue.com/b0138zkjeh（提取码: gods ）
 
 
 ### Gitee 项目
@@ -98,16 +92,15 @@ Gods Game（神的游戏）
 https://github.com/TKCB/Gods-Game
 
 
-### 4大网盘和Git的内容一致
+### 3大网盘和Git的内容一致
 为了更好地分享，而某个网盘失效或者文件被屏蔽等情况。
 
-故而使用了4个网盘，和两个Git进行分享，理论上6份是同步的，但如果有个别不一致，敬请理解……
+故而使用了3个网盘，和两个Git进行分享，理论上6份是同步的，但如果有个别不一致，敬请理解……
 
 谢谢理解……
 
 
 ### 最后的祝福
-
 祝愿大家学习愉快，工作开心、生活如意，遇到挫折苦难逆境也要勇敢向前走……
 
 真诚的希望我们的软件和游戏，帮助到了大家，也感谢您的使用……
