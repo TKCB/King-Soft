@@ -111,4 +111,4 @@ https://github.com/TKCB/Gods-Game
 
 
 ### 许可证
-[Apache License 2.0](https://github.com/TKCB/King-Soft/blob/main/LICENSE)
+[使用许可证](https://github.com/TKCB/King-Soft/blob/main/LICENSE)
