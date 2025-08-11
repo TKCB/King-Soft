@@ -123,11 +123,7 @@ https://github.com/TKCB/Gods-Game
 
 E-mail ：tkcb@qq.com
 
-微 信 号：TKCB-Gm
-
 QQ号码：2414268040 （TKCB-Gm）
-
-QQ空间：[http://2414268040.qzone.qq.com](http://2414268040.qzone.qq.com)
 
 QQ群①：96759336 （Flash 闪侠）
 
